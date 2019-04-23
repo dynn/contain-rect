@@ -1,0 +1,19 @@
+{
+  "name": "contain-rect",
+  "version": "0.0.2",
+  "description": "Contain a rect within another rect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynn/contain-rect.git"
+  },
+  "author": "Dynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dynn/contain-rect/issues"
+  },
+  "homepage": "https://github.com/dynn/contain-rect#readme"
+}
